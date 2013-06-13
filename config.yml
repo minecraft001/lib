@@ -1,0 +1,14 @@
+#################################
+#####       Language        #####
+#################################
+language: "language_en.yml"
+#################################
+#####      Permission       #####
+#################################
+#Permission to reload config
+per_lib_reloadConfig: "per.lib.reloadConfig"
+#################################
+#####        Config         #####
+#################################
+#Cmd Interval
+cmdInterval: 500

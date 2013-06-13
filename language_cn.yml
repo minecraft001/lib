@@ -1,0 +1,26 @@
+#转换说明
+#'/&'会被转换成'&'
+#'&'会被轮换成'/u00A7'
+#'\n '会被转换成'\n'
+
+#普通语言
+lang_100: "启动失败!插件需求: Vault."
+lang_110: "lib命令提示"
+lang_115: "/lib <reloadConfig/rc>"
+lang_116: "重新读取配置文件."
+lang_120: "重新读取配置文件成功."
+lang_121: "重新读取配置文件失败."
+lang_125: "速度太快!"
+
+#格式语言
+lang-1: "tip:&6{0}"
+lang-3: "success:&a{0}"
+lang-5: "fail:&c{0}"
+lang-7: "warn:&c&o{0}"
+lang-9: "cmdHelpHeader:&b<&6{0}&b>"
+lang-11: "cmdHelpItem:&b->&d{0} &a{1}"
+lang-13: "listHeader:&6- &6{0}( &d{1}&6 / &d{2} &6) &6>>"
+lang-15: "listItem:&b- {0}"
+lang-20: "noPer:&c没有权限(&2{0}&c)."
+lang-25: "pluginEnabled:&a{0}插件v{1}已经启动!"
+lang-30: "pluginDisabled:&c{0}插件v{1}已经停止!"

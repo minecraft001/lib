@@ -1,0 +1,26 @@
+#tip
+#'/&'will be convert to'&'
+#'&'will be convert to'/u00A7'
+#'\n 'will be convert to'\n'
+
+#plain language
+lang_100: "Enable Failed!Plugin needed: Vault."
+lang_110: "lib Tip"
+lang_115: "/lib <reloadConfig/rc>"
+lang_116: "Reload the config."
+lang_120: "Reload config success."
+lang_121: "Reload config fail."
+lang_125: "Too quick!"
+
+#format language
+lang-1: "tip:&6{0}"
+lang-3: "success:&a{0}"
+lang-5: "fail:&c{0}"
+lang-7: "warn:&c&o{0}"
+lang-9: "cmdHelpHeader:&b<&6{0}&b>"
+lang-11: "cmdHelpItem:&b->&d{0} &a{1}"
+lang-13: "listHeader:&6- &6{0}( &d{1}&6 / &d{2} &6) &6>>"
+lang-15: "listItem:&b- {0}"
+lang-20: "noPer:&cNo Permission(&2{0}&c)."
+lang-25: "pluginEnabled:&aPlugin {0}v{1} enabled!"
+lang-30: "pluginDisabled:&cPlugin {0}v{1} disabled!"

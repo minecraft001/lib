@@ -1,0 +1,9 @@
+name: lib
+main: lib.Lib
+version: 1.0
+load: startup
+softdepend: [Vault]
+commands:
+  lib:
+    description: none
+    usage: /<command> ?
